@@ -1,7 +1,6 @@
 # Spotify-Clone
 
-As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
-
+The project depicts a clone of a very famous music application "Spotify". It is a front-end project in which HTML,CSS and JavaScript has been used. The song of music playlist can be accessed and played, paused and skipped to the next song easily. HTML and CSS were used for styling and design of the web page while JavaScript was used to add songs to it.
 
 ## Tech-Stack-
 
@@ -18,18 +17,4 @@ As part of learning to code,I completed a project that involved creating a basic
 - Seek: Allows the user to manually move forward or backward within a track by dragging a slider or clicking on a progress bar.
 - Display the currently playing song and album artwork.
 
-## Usage-
 
-Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
-
-## Live-Demo-
-
-[Spotify-Clone-Live](https://spotify-clone-javascript.netlify.app/)
-
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
-
-
-## Screenshot-
-
-![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
